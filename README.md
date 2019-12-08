@@ -2,4 +2,4 @@
 
 Este repositorio é para treinamento do curso de GIT e GitHub.
 
-![GIT !!] (https://github.com/rttesta/TreinoGitRepo/blob/master/GIT.png)
+![alt text] (https://github.com/rttesta/TreinoGitRepo/blob/master/GIT.png "GIT !!")
