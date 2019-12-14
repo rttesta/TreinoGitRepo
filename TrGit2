@@ -1,7 +1,7 @@
 Arquivo para teste - Lista de comandos
 
-git add
-git commit
+git add .
+git commit -m "Comentario"
 git push
 
 git status
@@ -10,5 +10,6 @@ git log
 Exercitando Comandos
 
 git branch <novaBranch>
-
+git remote -u origin NovaBranch
+git checkout <NovaBranch>
 
