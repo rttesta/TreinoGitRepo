@@ -1,10 +1,11 @@
-Segundo arquivo para teste
+Arquivo de teste
 
-git add
-git commit
+git add .
+git commit -m "Comentario"
 git push
 
 git status
 git log
 
-Exercitando Comandos
+git remote -u origin NovaBranch
+git checkout <NovaBranch>
