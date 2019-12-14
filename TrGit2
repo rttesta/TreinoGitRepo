@@ -1,4 +1,4 @@
-Segundo arquivo para teste
+Arquivo para teste - Lista de comandos
 
 git add
 git commit
@@ -8,3 +8,7 @@ git status
 git log
 
 Exercitando Comandos
+
+git branch <novaBranch>
+
+
